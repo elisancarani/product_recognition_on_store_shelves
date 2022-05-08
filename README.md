@@ -1,4 +1,5 @@
-# product_recognition_on_store_shelves
+## Product Recognition On Store Shelves
+
 
 In this project, computer vision techniques are implemented in order to perform object detection.
 Specifically, the aim is to implement a program for product recognition on store shelves. The aim is to
